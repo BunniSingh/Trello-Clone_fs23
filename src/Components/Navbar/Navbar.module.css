@@ -1,0 +1,9 @@
+.navbar{
+    padding: 1rem;
+    background-color: blueviolet;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}

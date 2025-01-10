@@ -1,0 +1,13 @@
+.footer{
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    text-align: center;
+    /* padding: 1rem; */
+    transform: translate(-50%, -50%);
+}
+
+.footer p{
+    width: auto;
+    margin: auto;
+}
